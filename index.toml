@@ -1,0 +1,69 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "5d0a7606977a8f774e1024f466a9181aa1a3b30a291761a4f90eeebf0ce81335"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "c5617a8aeeed635b36e4b6311ef6d89bfd464c67d4d7e8fe07f9df1e385aff02"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "f451c5e9ce5b6d48b72f8586e54538630a888d3397f9c0a589573b4a5079cd10"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "2a975c72c470841e48dfcecdbffb50519123332a16169ec73512423423a961f6"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "6407835442bafbabb2a748fc2b4fea1d215fb52fe546b4b21cf12cc625abca5e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "cbcee3ba79c50de55d65927e3e3454f359f36c4366ba9c62e6d2dd20304ff096"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "10d4823bf19a5674d0f43301bd46e2913abd3c5408990c83fe1874821dd413a4"
+metafile = true
+
+[[files]]
+file = "mods/memory-check-1.3.jar"
+hash = "fafd60d1ba6512f666acc516e359341fc83d37f4cfa3f2d4b26549630c7c3a51"
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "9e7861f54a7de6b065ffd247fc72aa67f98359d90e33c44cffdc2b6dee765c4a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "82349cd3e7197f43eee32eaddf83d6fb8a1fe798d1b4ccbaa61156db608ebedd"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a167516ae191a09a35f9c8748f76163021912363b0b814a1ecee8d2d8d913f41"
