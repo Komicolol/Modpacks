@@ -22,12 +22,12 @@ hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "f451c5e9ce5b6d48b72f8586e54538630a888d3397f9c0a589573b4a5079cd10"
+hash = "57f7c3fe3b58e22ff0f70954ac206b0925be2df0377d53c29f508f1ca9b6a2cb"
 metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "2a975c72c470841e48dfcecdbffb50519123332a16169ec73512423423a961f6"
+hash = "a43dec6f1aad05518a1ac1056a53cdfa357d1a46e19ffb945632e7fd0fb02644"
 metafile = true
 
 [[files]]
@@ -37,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
+hash = "f8936bef75675978cec779563c24358db371e3c3e8700e082a2707ce81801522"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "cbcee3ba79c50de55d65927e3e3454f359f36c4366ba9c62e6d2dd20304ff096"
+hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "10d4823bf19a5674d0f43301bd46e2913abd3c5408990c83fe1874821dd413a4"
+hash = "c7615a718c4db7c8bad89d181e1d9a1e5f8a534bd1dc95c77e26b0af9c34c18a"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "82349cd3e7197f43eee32eaddf83d6fb8a1fe798d1b4ccbaa61156db608ebedd"
+hash = "7d2f60141c2f177312f650bfc8caec95eb694d6d4a81908132c03bc47aa13a96"
 metafile = true
 
 [[files]]
