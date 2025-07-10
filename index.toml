@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.org"
+hash = "daa8ca561a19e2a5c17ac91c9998eaaac092b36103ef5906af7f1e8a71d2e852"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "5d0a7606977a8f774e1024f466a9181aa1a3b30a291761a4f90eeebf0ce81335"
 
