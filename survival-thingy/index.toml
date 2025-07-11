@@ -36,6 +36,11 @@ hash = "f8936bef75675978cec779563c24358db371e3c3e8700e082a2707ce81801522"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
 metafile = true
@@ -43,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c7615a718c4db7c8bad89d181e1d9a1e5f8a534bd1dc95c77e26b0af9c34c18a"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "580db1cc3b78cbafc48cf9be4bd5d478fdddb454b12b519593240f68f896dd89"
 metafile = true
 
 [[files]]
