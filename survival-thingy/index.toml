@@ -55,6 +55,3 @@ file = "mods/spark.pw.toml"
 hash = "7d2f60141c2f177312f650bfc8caec95eb694d6d4a81908132c03bc47aa13a96"
 metafile = true
 
-[[files]]
-file = "options.txt"
-hash = "a167516ae191a09a35f9c8748f76163021912363b0b814a1ecee8d2d8d913f41"
