@@ -1,0 +1,13 @@
+name = "Cobblemon"
+author = "not me lmao"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a6fac16726050c23ab788216d4f515619371bbe139a80fa93f02e470cbdff63d"
+
+[versions]
+fabric = "0.17.0"
+minecraft = "1.21.1"
