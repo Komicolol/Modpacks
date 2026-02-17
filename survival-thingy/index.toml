@@ -22,7 +22,12 @@ hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "58d0c440d4a0464d2b62cc1ac7c7a80197181c932af8ec1b4fce08e0f83bd816"
+hash = "86a83e2ffeda465136d95765222d5498a62d4e7d5d7a43ac1a9e06180bf4c971"
+metafile = true
+
+[[files]]
+file = "mods/cardboard.pw.toml"
+hash = "a1ec3a83ca0aa8e3e407809a5293cf415dac9c5bdda2b5869fa0c940d4ecbd25"
 metafile = true
 
 [[files]]
@@ -32,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "46e9279decd21c95893e9a40bca98612067578a8f97902c8569ea78e611fe8b3"
+hash = "1943cee706f90e5e828de013387ee1d1ae9ec1ae6a63da767be9bfd64018b79a"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
+hash = "e3d00ba5bb65702b984da8ee63dd6f87a1d0c2b818d0fb1d21e4197a591db73b"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4b6f137f838f83fe9a89b05eb46973308371ced3d3234c29ce8df461ebe754e2"
+hash = "6fd385ab7c8e30ff3fb79a941e5149b16e0a971e6feddbd5902f3cfc5e9aba4d"
 metafile = true
 
 [[files]]
