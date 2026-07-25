@@ -54,3 +54,51 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "d289714952179b2d07c1fd59ef951d248cc93153d5d92cc499cb492472941b7e"
 metafile = true
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/modrinth.index.json"
+hash = "270cbdd97e85d4472f22842b9024f9b077f3052bdbd15590d3ac1f7e2441e7c9"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/config/c2me.toml"
+hash = "5d0a7606977a8f774e1024f466a9181aa1a3b30a291761a4f90eeebf0ce81335"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/config/fabric/indigo-renderer.properties"
+hash = "c5617a8aeeed635b36e4b6311ef6d89bfd464c67d4d7e8fe07f9df1e385aff02"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/mods/Chunky-Fabric-1.4.55.jar"
+hash = "33cbd9bce0e3366851c4b59861043334eb7c1892248f1ef11403bbedb476bd15"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/mods/c2me-fabric-mc1.21.11-0.4.0-alpha.0.23.jar"
+hash = "1ed67935923dce14afc6a45fdf0f81ab283a28294230ef26a5f63bad884d7fa9"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/mods/fabric-api-0.141.5+1.21.11.jar"
+hash = "2525f9b7bb5524d409404831f7af276a86f7f1e90245ae4bb7555fe088d00e0d"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/mods/ferritecore-8.2.0-fabric.jar"
+hash = "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/mods/lithium-fabric-0.21.4+mc1.21.11.jar"
+hash = "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b"
+
+[[files]]
+file = "yes-1.0.0.mrpack_1/overrides/mods/spark-1.10.170-fabric.jar"
+hash = "53652a6682d69b1a8924ee9ae8e61925551639ab540bd53f9814b1129435e7e5"
