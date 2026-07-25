@@ -22,7 +22,7 @@ hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "9450f8a2ef35fe0265d092e6b56738303c6f5f70f3014a648324ddb67a84b61e"
+hash = "145105acfc2d23f1bf6047ce9969d22ca64fb2119f7229afc6e4fa72c923f1f1"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a9e19fada33c165b2aafa879179fb45de0eeb039bb0f4e9ca6bdb678441a656"
+hash = "a668ab968946079a4a7806d2953f0ac5925facc2e2e883c193c8aa2b1a23b0ff"
 metafile = true
 
 [[files]]
@@ -47,10 +47,10 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e1abc1f3938e26029a550172b3e616c8e62f14a4988aefe0c2d9c768298c8fca"
+hash = "aff4aa2f11b20a4535e9a794c3fb316d86ae7ab5e6350bd21ec202784ea1fe9c"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "b06945aaa6a338deed3db1240c33cea24655fe687f0618be9d4ba4bfe0863f7a"
+hash = "d289714952179b2d07c1fd59ef951d248cc93153d5d92cc499cb492472941b7e"
 metafile = true
