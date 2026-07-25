@@ -37,12 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a668ab968946079a4a7806d2953f0ac5925facc2e2e883c193c8aa2b1a23b0ff"
+hash = "2f5c506d2812eadb4cd6ce2286dc2aafe8a21046d2c1f584a75ca90ea5bd3eeb"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "638ada423b2201d0157dcb7f039f49728b193f9e573d30c9970c2a0f16fb1380"
+metafile = true
+
+[[files]]
+file = "mods/icommon.pw.toml"
+hash = "b76196706d9189c52a5c3d7c8a8a6e3b08d41bf2e441597ce2ccc2d6efe2a6b3"
 metafile = true
 
 [[files]]
