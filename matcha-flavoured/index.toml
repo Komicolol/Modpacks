@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/datapacks/matcha-flavoured.pw.toml"
-hash = "1b4974697ecb84fad050609df6160ad4c14c6fcbd250b2404f5d747a8440d76a"
+hash = "a0c9b4c5ce90980d3a6c8e1958f01461ff7df93c65b037d8c0d7c1b0a71af146"
 metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "fe577170ec233021ab29c528e552d68885168a2cacf4cab33643699c40cbd52d"
+hash = "e0e7a4f9701d94beda03da9f895b2d97ed3eac52b84d283cc877ee9a33e1d986"
 metafile = true
 
 [[files]]
@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
+hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
 metafile = true
 
 [[files]]
@@ -32,20 +32,10 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "caecd9be6b392695c7a5bc5a28487da0a62dea5199b825d0fa0252ff75199157"
-metafile = true
-
-[[files]]
-file = "mods/paxi.pw.toml"
-hash = "dd8f6e4afe4cb495d13c2439c9d4b856d5ed86fb0e39d4f8efd315b591ab74e9"
+hash = "3b4ab92dd5c39fbe0f5af3d73f0d7f3df3e2450842055353b0a5dc8fb9dae534"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "e4ffe1533fa8848f496638d91bce33f71cfb44eb72cfe5107716837cb8b96f1e"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "acbf44be20741415885531d867cb70076d04af6c69e08d8db1fcfbe07edd90af"
 metafile = true
