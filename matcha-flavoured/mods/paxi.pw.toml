@@ -1,0 +1,13 @@
+name = "Paxi"
+filename = "Paxi-26.1.2-Fabric-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/2FGUtGfp/Paxi-26.1.2-Fabric-6.1.0.jar"
+hash-format = "sha512"
+hash = "a9b8c7969c83cedc818233a810cca58803566407a42bf2471f3b1591434874b43fef683421e419f3618a9082eeae6b539cb2af35743e98153102a689d44a8384"
+
+[update]
+[update.modrinth]
+mod-id = "CU0PAyzb"
+version = "2FGUtGfp"

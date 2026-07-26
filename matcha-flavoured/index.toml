@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/paxi/datapacks/matcha-flavoured.pw.toml"
+hash = "1b4974697ecb84fad050609df6160ad4c14c6fcbd250b2404f5d747a8440d76a"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "fe577170ec233021ab29c528e552d68885168a2cacf4cab33643699c40cbd52d"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "ae941516c6d10d9e7fad332f2d1df8acede86220406f4acdacb8f1fa018f337a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "9ca046d9f6700d5af540f3d557eb356d5c8c5bc1007e6fe957168f7d4638c3c4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "caecd9be6b392695c7a5bc5a28487da0a62dea5199b825d0fa0252ff75199157"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "dd8f6e4afe4cb495d13c2439c9d4b856d5ed86fb0e39d4f8efd315b591ab74e9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "e4ffe1533fa8848f496638d91bce33f71cfb44eb72cfe5107716837cb8b96f1e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "acbf44be20741415885531d867cb70076d04af6c69e08d8db1fcfbe07edd90af"
+metafile = true
