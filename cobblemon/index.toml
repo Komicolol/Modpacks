@@ -2,10 +2,10 @@ hash-format = "sha256"
 
 [[files]]
 file = "cobblemon-fabric.pw.toml"
-hash = "07a3d38227794bfce558f805a2b80ca789e27a6bd6975aae3899ecb7af75ed17"
+hash = "5fe57b975ddb02350c6305ca71587bf3fae6e298cfe1e9774be08901c2c3e6f8"
 metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+hash = "b1a2f33743504db0099a8811b5a923ce56261d5aff2770d3a8812654dbd5e85d"
 metafile = true

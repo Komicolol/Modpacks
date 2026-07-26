@@ -1,13 +1,13 @@
 name = "Cobblemon Official Modpack [Fabric]"
-filename = "Cobblemon Official [Fabric] 1.6.1.4.zip"
+filename = "Cobblemon Modpack [Fabric] 1.7.3.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "95da3ae63ddcc9dc2b2640ef127b3114c8a7ded6"
+hash = "4b7c284feda3df0ff2aece2b75574bfaded5391b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6715093
+file-id = 7568753
 project-id = 821748
