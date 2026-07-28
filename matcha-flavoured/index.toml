@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/datapacks/matcha-flavoured.pw.toml"
-hash = "a0c9b4c5ce90980d3a6c8e1958f01461ff7df93c65b037d8c0d7c1b0a71af146"
+hash = "c8a337031a11301d8fc8914f56f01151da7b2b59733d42207c14344f63d3dfcb"
 metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "e0e7a4f9701d94beda03da9f895b2d97ed3eac52b84d283cc877ee9a33e1d986"
+hash = "46f3964644cf197638981b30316746fd220ebd3c3796e568c4e2e17ac8cbca2c"
 metafile = true
 
 [[files]]
@@ -23,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "bb3966260841112fc0fc3ce954531e39455b4918b6846c8f58ea7161605cb157"
 metafile = true
 
 [[files]]
