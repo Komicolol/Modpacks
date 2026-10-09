@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/matcha-flavoured.pw.toml"
+hash = "0de4987b769c3dce7c4ee2fb0c8201933c82524534ef759cfcdc9061501d4271"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "ef882ec5764061987ebdec647b2b5b57302034410eb09f1b37894cc0c27ff6a2"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "e8db529387e9971974bb74ada3d025196de9c5db7f12b2272b119475cac88659"
+metafile = true
+
+[[files]]
+file = "mods/matcha-flavoured.pw.toml"
+hash = "ffcd5d602386764cc17c1d793fd7562c46b3fe70499edf1958efe6994e1036fe"
 metafile = true
 
 [[files]]
