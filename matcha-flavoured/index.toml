@@ -1,13 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/paxi/datapacks/matcha-flavoured.pw.toml"
-hash = "406a8714e82c116feca14517b974a0607dabf8d4671313cc150e98f1d9601a02"
-metafile = true
-
-[[files]]
 file = "mods/c2me.pw.toml"
-hash = "8c7be23836dec5d96a8e94b30e086b86cd918633346c83773326c552496ba897"
+hash = "ef882ec5764061987ebdec647b2b5b57302034410eb09f1b37894cc0c27ff6a2"
 metafile = true
 
 [[files]]
@@ -17,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
@@ -37,15 +32,20 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7356e7248fd08cfd4112936ae7b5e2f83516b60795d5309fd46e313c792f49f3"
+hash = "c973d87a1a9284b0cca0700167b7ba0d4c26b5e7f30ed66246e412772d79508f"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7db560646d7ddb7786b48647054466773905f420d145833ca560141d075abf40"
+hash = "e8db529387e9971974bb74ada3d025196de9c5db7f12b2272b119475cac88659"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "e4ffe1533fa8848f496638d91bce33f71cfb44eb72cfe5107716837cb8b96f1e"
+hash = "1dbf2d33a89fc4277dc26d58ee0a579117a52e80413fdb599c3176760520888e"
+metafile = true
+
+[[files]]
+file = "mods/unplugged-afk.pw.toml"
+hash = "56ebb91f7d606160df2458a33de6839f13c91073461852ec3ecf78d49b5cb0bd"
 metafile = true
