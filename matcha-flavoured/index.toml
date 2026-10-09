@@ -44,8 +44,3 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "1dbf2d33a89fc4277dc26d58ee0a579117a52e80413fdb599c3176760520888e"
 metafile = true
-
-[[files]]
-file = "mods/unplugged-afk.pw.toml"
-hash = "56ebb91f7d606160df2458a33de6839f13c91073461852ec3ecf78d49b5cb0bd"
-metafile = true
