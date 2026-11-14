@@ -1,0 +1,13 @@
+name = "Matcha Flavoured"
+filename = "matcha-flavoured-1.12.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QI0EmgZ1/versions/iGP26eHl/matcha-flavoured-1.12.9.jar"
+hash-format = "sha512"
+hash = "cf7eebd1bf4c9dc577eebfa5d56f393f9c1a17b96065f6a441fbdf7178556a853dae22065e503126d234236b9a0705ef88768892baf367b88cecd0cbf478980e"
+
+[update]
+[update.modrinth]
+mod-id = "QI0EmgZ1"
+version = "iGP26eHl"
