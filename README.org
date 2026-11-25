@@ -1,3 +1,4 @@
 #+title: Modpack
 
-i'm planning to add cobblemon soonTM
+* todo
+- [ ] simplevoicechat for all servers.

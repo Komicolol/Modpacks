@@ -51,6 +51,11 @@ hash = "088b5897cbd51e2a76819848a86930df96d9981018a7606af2ff11ac1e1ccd74"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "1dbf2d33a89fc4277dc26d58ee0a579117a52e80413fdb599c3176760520888e"
 metafile = true
